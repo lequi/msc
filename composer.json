@@ -1,5 +1,5 @@
 {
-  "name": "gonzalo123/msc",
+  "name": "lequi/microservicecontainer",
   "keywords": ["microservices", "container", "guzzle"],
   "description": "Microservice container",
   "license":"MIT",
@@ -16,8 +16,6 @@
     "guzzlehttp/guzzle": "6.0.1"
   },
   "require-dev": {
-    "silex/silex": "1.3.*@dev",
-    "slim/slim": "^2.6"
   },
   "autoload": {
     "psr-4": {
